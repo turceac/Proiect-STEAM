@@ -1,3 +1,4 @@
 # Proiect-STEAM
 Lucru in echipa
-Configurarea GITHUB SSH
+Proiect modificat data 02.11.26
+
